@@ -1,0 +1,8 @@
+<mat-toolbar>
+    <h1>Management Center</h1>
+    <button mat-button routerLink="/home" i18n>Home</button>
+    <button mat-button routerLink="/tag" i18n>Tag Management</button>
+    <button mat-button routerLink="/file" i18n>File Management</button>
+    <button mat-button (click)="login()" i18n *ngIf="!isLoggedIn">Login</button>
+    <button mat-button (click)="logout()" i18n *ngIf="isLoggedIn">Logout</button>
+</mat-toolbar>

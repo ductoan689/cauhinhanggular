@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="bb694b49d408265c91c62799c2b3a7e3151c824d" datatype="html">
+        <source>Logout</source>
+        <target>Logout</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/nav/nav.component.html</context>
+          <context context-type="linenumber">6</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0b1f56ab253b434fee883c676f8601fb2126af27" datatype="html">
+        <source>Tag Management</source>
+        <target>Tag Management</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/default/default-layout-nav/default-layout-nav.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/admin/admin-layout-nav/admin-layout-nav.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b399ae1e9e818f36a81237f0f3f6cfa63e84ea3b" datatype="html">
+        <source>app component works</source>
+        <target>app component works</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7c25ffdfdcbc340e0abe8ead8c8f9ca6a260e970" datatype="html">
+        <source>File Management</source>
+        <target>File Management</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/default/default-layout-nav/default-layout-nav.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layouts/admin/admin-layout-nav/admin-layout-nav.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6413592830e3f3ed22997c1f73c3188bb0743c86" datatype="html">
+        <source>Tags Management</source>
+        <target>Tags Management</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/nav/nav.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3bd605ce7321999982e4ad9a3f784bc981def7ea" datatype="html">
+        <source>footer works!</source>
+        <target>footer works!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/footer/footer.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="09495d0cf6a0386de64d1f366b5035665376c079" datatype="html">
+        <source>My Application</source>
+        <target>My Application</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/nav/nav.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="92eee6be6de0b11c924e3ab27db30257159c0a7c" datatype="html">
+        <source>Home</source>
+        <target>Home</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/nav/nav.component.html</context>
+          <context context-type="linenumber">3</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6765b4c916060f6bc42d9bb69e80377dbcb5e4e9" datatype="html">
+        <source>Login</source>
+        <target>Login</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/layout/nav/nav.component.html</context>
+          <context context-type="linenumber">4</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a9540ffdd661b91d4556ee91c486568fc38e7829" datatype="html">
+        <source>home works!</source>
+        <target>home works!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/home/pages/home/home.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="40c5b59b045f494bc9e7c4cf235fe61def17f49c" datatype="html">
+        <source>Sorry, Page not found!</source>
+        <target>Sorry, Page not found!</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/error/pages/page-not-found/page-not-found.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e42f844332930946f9a5da594fd922e05f06d753" datatype="html">
+        <source>Back to Home Page</source>
+        <target>Back to Home Page</target>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/modules/error/pages/page-not-found/page-not-found.component.html</context>
+          <context context-type="linenumber">2</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
