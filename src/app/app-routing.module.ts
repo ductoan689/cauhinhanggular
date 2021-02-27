@@ -7,11 +7,12 @@ const routes: Routes = [
   { path: 'home', loadChildren: () => import('modules/home/home.module').then(m => m.HomeModule) },
   { path: 'error', loadChildren: () => import('modules/error/error.module').then(m => m.ErrorModule) },
   {
-    path: 'category-management',
-    loadChildren: () => import('modules/category_management/category-management.module').then(m => m.CategoryManagementModule)
+    path: 'category-management', loadChildren: () => import('modules/category_management/category-management.module').then(m => m.CategoryManagementModule),
   },
-  { path: 'tag', loadChildren: () => import('modules/tag/tag.module').then(m => m.TagModule) },
+  { path: 'account', loadChildren: () => import('modules/account/account.module').then(m => m.AccountModule ) },
+  { path: 'tag', loadChildren: () => import('modules/tag/tag.module').then(m => m.TagModule) } ,
   { path: '**', redirectTo: 'error/page-not-found' },
+
 ];
 
 if (environment.defaultRouterLink) {

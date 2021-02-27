@@ -1,0 +1,84 @@
+.header {
+    width: 100%;
+    margin: 5px;
+    background-color: #fff;
+    font-size: 20px;
+    .tieudelon {
+        display: flex;
+        justify-content: space-around;
+        color: #81b700;
+        margin: 0.5rem;
+        padding: 10px;
+        .tieudetrai {
+            width: 27%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            .iconleft {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+            .iconleft1 {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+        }
+        .tieudephai {
+            width: 20%;
+            display: flex;
+            justify-content: space-between;
+            .iconright {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+            .iconright1 {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+            }
+        }
+    }
+
+    .logo {
+        width: 100%;
+        .dad {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+
+            .logo1 {
+                display: flex;
+                width: 30%;
+                font-size: 32px !important;
+                justify-content: flex-end;
+                font-family: "Montserrat Alternates" !important;
+                color: #81b700 !important;
+                line-height: 48px !important;
+            }
+            .sergh {
+                display: flex;
+                width: 70%;
+                justify-content: flex-end;
+
+                .example-form {
+                    display: flex;
+                    width: 100%;
+                    justify-content: center;
+                    .input-1-3-width {
+                        width: 90% !important;
+                    }
+                }
+            }
+            .btn {
+                color: #81b700;
+                display: flex;
+                
+                justify-content: flex-end;
+                
+            }
+        }
+    }
+}
